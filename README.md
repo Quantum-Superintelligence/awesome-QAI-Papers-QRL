@@ -148,6 +148,21 @@ Research papers in this category explore:
 
 ---
 
+### Newly added and verified literature (2025)
+
+| title | year | publisher | Author | link | category |
+|:---|---:|:---|:---|:---|:---|
+| Auxiliary Task-Based Deep Reinforcement Learning for Quantum Control | 2025 | IEEE | Shumin Zhou; Hailan Ma; Sen Kuang; Daoyi Dong | https://doi.org/10.1109/TCYB.2024.3521300 | QRL |
+| Robust quantum control using reinforcement learning from demonstration | 2025 | Nature | Shengyong Li; Yidian Fan; Xiang Li; Xinhui Ruan; Qianchuan Zhao; Zhihui Peng; Re-Bing Wu; Jing Zhang; Pengtao Song | https://doi.org/10.1038/s41534-025-01065-2 | QRL |
+| Hybrid quantum-classical reinforcement learning in latent observation spaces | 2025 | Springer | Dániel T. R. Nagy; Csaba Czabán; Bence Bakó; Péter Hága; Zsófia Kallus; Zoltán Zimborás | https://doi.org/10.1007/s42484-025-00306-z | QRL |
+| Reinforcement Learning to Learn Quantum States for Heisenberg Scaling Accuracy | 2025 | Wiley | Jeongwoo Jae; J. Hong; J. Choo; Young-Duk Kwon | https://doi.org/10.1002/qute.202500206 | QRL |
+| Toward Heisenberg Limit without Critical Slowing Down via Quantum Reinforcement Learning | 2025 | APS | Hang Xu; Tailong Xiao; Jingzheng Huang; Ming He; Jianping Fan; Guihua Zeng | https://doi.org/10.1103/PhysRevLett.134.120803 | QRL |
+| Quantum reinforcement learning in continuous action space | 2025 | Quantum | Shaojun Wu; Shan Jin; Dingding Wen; Donghong Han; Xiaoting Wang | https://doi.org/10.22331/q-2025-03-12-1660 | QRL |
+| Nav-Q: quantum deep reinforcement learning for collision-free navigation of self-driving cars | 2025 | Springer | Akash Sinha; Antonio Macaluso; Matthias Klusch | https://doi.org/10.1007/s42484-024-00226-4 | QRL |
+| A hybrid learning agent for episodic learning tasks with unknown target distance | 2025 | Springer | Oliver Sefrin; Sabine Wölk | https://doi.org/10.1007/s42484-025-00269-1 | QRL |
+
+---
+
 ## 🔗 Cross-References
 - [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
 - [Quantum Machine Learning](https://github.com/Q-brain/awesome-QAI-Papers-QML)  
