@@ -1,17 +1,17 @@
 # 🔄 Quantum Reinforcement Learning (QRL) Papers
 
 This section of the **Quantum AI Papers** repository focuses on **Quantum Reinforcement Learning (QRL)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+QRL combines quantum computation with reinforcement learning for sequential decision-making, control, planning, exploration, and multi-agent coordination. The collection includes quantum-native, hybrid quantum-classical, and quantum-inspired reinforcement-learning methods.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- Quantum policies, value functions, policy gradients, and actor–critic methods  
+- Quantum and hybrid quantum-classical agents for control, planning, and optimization  
+- Quantum reinforcement learning for quantum systems, error correction, and state preparation  
+- Multi-agent, robust, offline, and partially observable quantum reinforcement learning  
+- Hardware noise, sample complexity, trainability, and practical NISQ-era deployment  
 
 ---
 
@@ -131,6 +131,20 @@ Research papers in this category explore:
 | Short quantum circuits in reinforcement learning policies for the vehicle routing problem                                                                   |   2022 | Phys. Rev. A 105                                                                                          | Fabio Sanches, Sean Weinberg, Takanori Ide, and Kazumitsu Kamiya                                                                                                                                                             | https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.062403                                   | QRL        |
 | A Multiagent Quantum Deep Reinforcement Learning Method for Distributed Frequency Control of Islanded Microgrids                                            |   2022 | IEEE Transactions on Control of Network Systems                                                           | Rudai Yan; Yu Wang; Yan Xu; Jiahong Dai                                                                                                                                                                                      | https://ieeexplore.ieee.org/abstract/document/9670708                                               | QRL        |
 
+
+---
+
+### Newly added and verified literature (2026)
+
+| title | year | publisher | Author | link | category |
+|:---|---:|:---|:---|:---|:---|
+| Quantum reinforcement learning in dynamic environments | 2026 | Springer | Oliver Sefrin; Manuel Radons; Lars Simon; Sabine Wölk | https://doi.org/10.1007/s42484-026-00383-8 | QRL |
+| Reinforcement learning control of quantum error correction | 2026 | Nature | Volodymyr Sivak et al. | https://doi.org/10.1038/s41586-026-10759-2 | QRL |
+| QER-LPD3QN: A quantum-Inspired Sequence-Aware deep reinforcement learning algorithm for path planning | 2026 | Elsevier | He Guo; Zhengyi Chai; Yalun Li | https://doi.org/10.1016/j.eswa.2026.131575 | QRL |
+| Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity | 2026 | PMLR | Hyun Kyu Lee; Joongheon Kim; Sung Whan Yoon | https://proceedings.mlr.press/v306/lee26ae.html | QRL |
+| Quantum Bayesian networks can speed up reinforcement learning in partially observable environments | 2026 | Springer | Gilberto Cunha; Alexandra Ramôa; André Sequeira; Michael de Oliveira; Luís Barbosa | https://doi.org/10.1007/s42484-026-00401-9 | QRL |
+| Noise-resilient quantum reinforcement learning | 2026 | APS | Jing-Ci Yue; Jun-Hong An | https://doi.org/10.1103/8gfc-2nsc | QRL |
+| Challenge-response quantum reinforcement learning with application to quantum-assisted authentication | 2026 | Springer | Jawaher Kaldari; Saif Al-Kuwari | https://doi.org/10.1007/s42484-026-00424-2 | QRL |
 
 ---
 
